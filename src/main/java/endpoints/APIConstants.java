@@ -14,7 +14,8 @@ public class APIConstants {
 	
 	// Project #3
 	public static String BASE_URL_PROJECT_3 = "";
-	public static String UPDATE_STATUS = "";
+	public static String UPDATE_STATUS_1 = "";
+	
 	
 	
 }
